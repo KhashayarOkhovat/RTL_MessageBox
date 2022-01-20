@@ -1,0 +1,16 @@
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\bin\Debug\PersianMessageBox.dll
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\bin\Debug\PersianMessageBox.pdb
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\bin\Debug\PersianMessageBox.dll.config
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Khashayar\source\repos\PersianMessage\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
